@@ -231,8 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Ahmed101Noor)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ahmed-khaled-noor)
+- GitHub: [@Ahmed101Noor](https://github.com/Ahmed101Noor)
+- LinkedIn: [Ahmed-Khaled-Noor](https://linkedin.com/in/ahmed-khaled-noor)
 
 ## 🙏 Acknowledgments
 
